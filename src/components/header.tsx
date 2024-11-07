@@ -15,10 +15,10 @@ function Header(){
                         <Link className="nav-links" href={"/"}>Home</Link>
                     </li>
                     <li>
-                        <Link  className="nav-links" href={"/"}>About</Link>
+                        <Link  className="nav-links" href={"/about"}>About</Link>
                     </li>
                     <li>
-                        <Link  className="nav-links" href={"/"}>Contact</Link>
+                        <Link  className="nav-links" href={"/contact"}>Contact</Link>
                     </li>
                 </ul>
              </div>
